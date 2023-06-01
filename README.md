@@ -1,5 +1,5 @@
-<h1 align = "center">Resources Guide</h1>
- <h2 align = "center">Web Development Post-Bootcamp Toolkit</h3>
+<h1 align = "center">Web Development Post-Bootcamp Toolkit</h1>
+ <h2 align = "center">Resources Guide</h2>
 
 <p align = "center">
   
