@@ -4,7 +4,7 @@
 <p align = "center">
   
   
-  <img src="https://img.shields.io/badge/Kit-CS-yellow" >
+  <img src="https://img.shields.io/badge/WD-Toolkit-yellow" >
   <img src="https://img.shields.io/badge/Cohort-WebDev-purple" >
   <img src="https://img.shields.io/badge/Stack-MERN-orange" >
  <img src="https://img.shields.io/badge/List-Resources-green" >
