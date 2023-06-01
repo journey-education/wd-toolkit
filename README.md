@@ -92,5 +92,5 @@ Resources | [MDN Web Docs](https://developer.mozilla.org/en-US/)
 
 ## 📊 Credits:
 
-The repo is created as a CS kit by Concordia Bootcamps
+The repo is created as a post-bootcamp toolkit by Concordia Bootcamps
 
