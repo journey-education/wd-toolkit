@@ -44,7 +44,7 @@ Projects  | [40 JavaScript Projects for Beginners](https://www.freecodecamp.org/
 Projects  | [MERN-Stack Projects](https://github.com/kunaltyagi9/MERN-Stack-Projects) 
 Skill Development | [FreeCodeCamp](https://www.freecodecamp.org/learn/) 
 Skill Development | [CodeWars](https://www.codewars.com/)
-Skill Development | [Codecademy](codecademy.com) 
+Skill Development | [Codecademy](https://www.codecademy.com/) 
 Skill Development  | [The Odin Project](https://www.theodinproject.com/) 
 React                 | [30 Days of React](https://github.com/Asabeneh/30-Days-Of-React)
 Resources | [MDN Web Docs](https://developer.mozilla.org/en-US/)
