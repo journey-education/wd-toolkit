@@ -53,10 +53,10 @@ Resources | [MDN Web Docs](https://developer.mozilla.org/en-US/)
 
 ### MERN Full Stack:
 * [Simplilearn | MERN Stack Course](https://www.youtube.com/watch?v=ORyi6tTMNqE)
-* [MERN App]()
-* [React App]()
-* [Back End stuff]()
-* [JS Videos]()
+* [MERN App](https://youtu.be/VsUzmlZfYNg)
+* [React App](https://youtu.be/cd3P3yXyx30)
+* [Back End with Python](https://youtu.be/jBzwzrDvZ18)
+* [JS Videos](https://youtu.be/jS4aFq5-91M)
 
 ## 🏆 New Topics:
 
